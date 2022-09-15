@@ -1,0 +1,26 @@
+/* Set a background image by replacing the URL below */
+body {
+  background: url('https://source.unsplash.com/twukN12EN7c/1920x1080') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.display-t h1 {
+  margin-bottom: 0px;
+  font-size: 100px;
+  line-height: 1.5;
+  font-family: "Sacramento", Arial, serif;
+  color: black;
+}
+
+.display-tc .btn {
+  padding: 15px 20px;
+  background: #fff !important;
+  color: #F14E95;
+  border: none !important;
+  font-size: 14px;
+  text-transform: uppercase;
+  border-radius: 30px;
+}
